@@ -1,0 +1,3 @@
+Local API test run:
+pytest -q
+6 passed
